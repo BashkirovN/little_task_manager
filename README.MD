@@ -10,6 +10,7 @@ The Little Task Manager takes the number of workers and a task list as input, an
 - Experiment with different weights using random values and choose the combination that yields the best results.
 
 ## Input File Format
+```plaintext
 6   # num tasks. Not parsed, set THREADS = 'this number' manually :)
 0 10 0  
 1 5 0
